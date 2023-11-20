@@ -27,9 +27,14 @@
         });
 
         anime({
-            targets: ".guitar-icon",
-            rotate: [0, 6, 0, -6, 0],
-            duration: 4000,
+            targets: ".body-imgbg",
+            backgroundPositionY: [0, '-632px'],
+            backgroundPositionX: [0, '634px'],
+            backgroundColor: ['#300000', '#601000', '#300000', '#300000', '#300000', '#601000',
+                '#300000', '#300000'
+            ],
+            easing: 'linear',
+            duration: 15000,
             loop: true,
         });
     });
