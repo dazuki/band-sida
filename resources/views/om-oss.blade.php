@@ -9,7 +9,7 @@
         </p>
         <div class="flex justify-center items-center">
             <div
-                class="text-center text-lg bg-red-300 bg-opacity-10 rounded-2xl w-full md:w-5/6 lg:w-[700px] mx-4 sm:mx-16 mb-4 drop-shadow-lg p-4 border-b-2 border-orange-300">
+                class="text-center text-lg box-bg rounded-2xl w-full md:w-5/6 lg:w-[700px] mx-4 sm:mx-16 mb-4 drop-shadow-lg p-4 border-b-2 border-orange-300">
                 <div class="anim-oss" style="opacity: 0;">
                     <p class="font-semibold text-center text-2xl p-4 pt-4 text-white">
                         <span class="text-orange-300">TONY</span> LINDBERG
@@ -20,7 +20,7 @@
                     </div>
                     <div class="flex justify-center items-center">
                         <p
-                            class="pt-4 pb-4 text-center text-lg bg-red-300 bg-opacity-10 rounded-b-2xl w-[220px] drop-shadow-lg">
+                            class="pt-4 pb-4 text-center text-lg bg-red-300 bg-opacity-10 rounded-b-2xl w-[220px] drop-shadow-lg border-t-2 border-orange-300">
                             Gitarr, Sång
                         </p>
                     </div>
@@ -36,7 +36,7 @@
                     </div>
                     <div class="flex justify-center items-center">
                         <p
-                            class="pt-4 pb-4 text-center text-lg bg-red-300 bg-opacity-10 rounded-b-2xl w-[220px] drop-shadow-lg">
+                            class="pt-4 pb-4 text-center text-lg bg-red-300 bg-opacity-10 rounded-b-2xl w-[220px] drop-shadow-lg border-t-2 border-orange-300">
                             Trummor
                         </p>
                     </div>
@@ -52,7 +52,7 @@
                     </div>
                     <div class="flex justify-center items-center">
                         <p
-                            class="pt-4 pb-4 text-center text-lg bg-red-300 bg-opacity-10 rounded-b-2xl w-[220px] drop-shadow-lg">
+                            class="pt-4 pb-4 text-center text-lg bg-red-300 bg-opacity-10 rounded-b-2xl w-[220px] drop-shadow-lg border-t-2 border-orange-300">
                             Gitarr, Sång
                         </p>
                     </div>
@@ -68,7 +68,7 @@
                     </div>
                     <div class="flex justify-center items-center mb-4">
                         <p
-                            class="pt-4 pb-4 text-center text-lg bg-red-300 bg-opacity-10 rounded-b-2xl w-[220px] drop-shadow-lg">
+                            class="pt-4 pb-4 text-center text-lg bg-red-300 bg-opacity-10 rounded-b-2xl w-[220px] drop-shadow-lg border-t-2 border-orange-300">
                             Bas, Sång
                         </p>
                     </div>

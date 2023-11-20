@@ -1,4 +1,4 @@
-<section class="bg-red-300 bg-opacity-10 text-white mx-auto w-full top-0 z-50 shadow-lg">
+<section class="box-bg text-white mx-auto w-full top-0 z-50 shadow-lg">
     <nav class="flex items-center justify-center p-4 py-6 sm:py-4 mx-auto max-w-4xl antialiased">
         <div class="text-xs sm:text-lg font-bold sm:font-semibold">
             <a href="/"

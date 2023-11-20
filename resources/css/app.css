@@ -21,6 +21,14 @@ body {
     background-color: #300000;
 }
 
+.box-bg {
+    background-color: #451111;
+}
+
+.border-bgred {
+    border-color: #300000;
+}
+
 .firefly {
     position: fixed;
     left: 50%;

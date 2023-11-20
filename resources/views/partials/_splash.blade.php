@@ -1,4 +1,4 @@
-<div class="text-white relative flex justify-center pt-12 sm:pt-20 items-center px-1">
+<div class="text-white relative flex justify-center pt-12 sm:pt-20 items-center px-1 z-50">
     {{-- <div class="absolute opacity-25 grayscale">
         <img id="fire_spin" src="{{ asset('images/band-logo2.png') }}">
     </div> --}}

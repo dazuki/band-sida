@@ -9,7 +9,7 @@
         </p>
         <div class="flex justify-center items-center">
             <div
-                class="text-center text-lg bg-red-300 bg-opacity-10 rounded-2xl w-full md:w-5/6 lg:w-[700px] mx-12 sm:mx-16 mb-4 drop-shadow-lg p-4 border-b-2 border-orange-300">
+                class="text-center text-lg box-bg rounded-2xl w-full md:w-5/6 lg:w-[700px] mx-4 sm:mx-16 mb-4 drop-shadow-lg p-4 border-b-2 border-orange-300">
                 <p class="text-center text-2xl">
                     Kommer snart...
                 </p>
