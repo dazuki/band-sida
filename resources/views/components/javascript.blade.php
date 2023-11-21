@@ -28,13 +28,13 @@
 
         anime({
             targets: ".body-imgbg",
-            backgroundPositionY: [0, '-632px'],
-            backgroundPositionX: [0, '634px'],
-            backgroundColor: ['#300000', '#601000', '#300000', '#300000', '#300000', '#601000',
+            backgroundPositionY: [0, '-632px'], //632px
+            backgroundPositionX: [0, '634px'], //634px
+            backgroundColor: ['#300000', '#661000', '#300000', '#300000', '#300000', '#661000',
                 '#300000', '#300000'
             ],
             easing: 'linear',
-            duration: 15000,
+            duration: 20000,
             loop: true,
         });
     });

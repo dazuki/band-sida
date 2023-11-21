@@ -4,8 +4,8 @@
         Kontakt
     @endsection
     <div class="text-white mx-auto w-full max-w-4xl p-8 pt-4 mt-8">
-        <p class="text-center text-2xl pb-8 font-semibold text-orange-300">
-            <span class="bg-red-300 bg-opacity-10 border-b-2 border-orange-300 px-4 p-2 rounded-lg">KONTAKT<svg
+        <p class="text-center text-2xl font-semibold text-orange-300">
+            <span class="box-bg border-t-2 border-orange-300 px-4 p-2 rounded-t-lg">KONTAKT<svg
                     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"
                     class="inline-block -mt-1 ml-2 w-7 h-7">
                     <path fill-rule="evenodd"
