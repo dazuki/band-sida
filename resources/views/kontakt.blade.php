@@ -16,10 +16,62 @@
         </p>
         <div class="flex justify-center items-center">
             <div
-                class="text-center text-lg box-bg rounded-xl w-full md:w-5/6 lg:w-[700px] sm:mx-16 mb-4 drop-shadow-lg p-4 border-t-2 border-orange-300">
-                <p class="text-center text-lg">
-                    Kommer snart...
+                class="text-center text-base box-bg rounded-xl w-full md:w-5/6 lg:w-[700px] sm:mx-16 mb-4 drop-shadow-lg p-4 border-t-2 border-orange-300">
+                <p class="text-center text-lg pb-4 mb-4 border-b-2 border-dashed border-orange-300">
+                    Här kan du kontakta någon av oss på vår Facebook eller Mail
                 </p>
+                <div class="mb-8">
+                    <p class="text-center font-semibold text-2xl">
+                        Tony Lindberg
+                    </p>
+                    <p class="text-center">
+                        <a href="https://www.facebook.com/tony.lindberg.142" target="_BLANK">
+                            <img src="{{ asset('images/facebook.png') }}"
+                                class="inline-block w-6 pt-1 mx-1 opacity-75 hover:opacity-100">
+                        </a>
+                        <a href="mailto:lindbergt69@gmail.com" target="_BLANK">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+                                stroke-width="1.5" stroke="currentColor"
+                                class="inline-block w-8 pt-1 mx-1 opacity-75 hover:opacity-100 text-orange-300">
+                                <path stroke-linecap="round"
+                                    d="M16.5 12a4.5 4.5 0 11-9 0 4.5 4.5 0 019 0zm0 0c0 1.657 1.007 3 2.25 3S21 13.657 21 12a9 9 0 10-2.636 6.364M16.5 12V8.25" />
+                            </svg>
+                        </a>
+                    </p>
+                </div>
+                <div class="mb-8">
+                    <p class="text-center font-semibold text-2xl">
+                        Mats Byström
+                    </p>
+                    <p class="text-center">
+                        <a href="https://www.facebook.com/kultmats" target="_BLANK">
+                            <img src="{{ asset('images/facebook.png') }}"
+                                class="inline-block w-6 pt-2 mx-1 opacity-75 hover:opacity-100">
+                        </a>
+                    </p>
+                </div>
+                <div class="mb-8">
+                    <p class="text-center font-semibold text-2xl">
+                        Ola Gustafsson
+                    </p>
+                    <p class="text-center">
+                        <a href="https://www.facebook.com/ola.gustafsson.967" target="_BLANK">
+                            <img src="{{ asset('images/facebook.png') }}"
+                                class="inline-block w-6 pt-2 mx-1 opacity-75 hover:opacity-100">
+                        </a>
+                    </p>
+                </div>
+                <div>
+                    <p class="text-center font-semibold text-2xl">
+                        Jonas Hellgren
+                    </p>
+                    <p class="text-center">
+                        <a href="https://www.facebook.com/jonas.hellgren.3" target="_BLANK">
+                            <img src="{{ asset('images/facebook.png') }}"
+                                class="inline-block w-6 pt-2 mx-1 opacity-75 hover:opacity-100">
+                        </a>
+                    </p>
+                </div>
             </div>
         </div>
     </div>

@@ -28,6 +28,19 @@
                         <p
                             class="pt-4 pb-4 text-center text-lg bg-red-300 bg-opacity-10 rounded-b-2xl w-[220px] drop-shadow-lg border-t-2 border-orange-300">
                             Gitarr, Sång
+                            <br />
+                            <a href="https://www.facebook.com/tony.lindberg.142" target="_BLANK">
+                                <img src="{{ asset('images/facebook.png') }}"
+                                    class="inline-block w-6 pt-2 mx-1 opacity-75 hover:opacity-100">
+                            </a>
+                            <a href="mailto:lindbergt69@gmail.com" target="_BLANK">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+                                    stroke-width="1.5" stroke="currentColor"
+                                    class="inline-block w-8 pt-2 mx-1 opacity-75 hover:opacity-100 text-orange-300">
+                                    <path stroke-linecap="round"
+                                        d="M16.5 12a4.5 4.5 0 11-9 0 4.5 4.5 0 019 0zm0 0c0 1.657 1.007 3 2.25 3S21 13.657 21 12a9 9 0 10-2.636 6.364M16.5 12V8.25" />
+                                </svg>
+                            </a>
                         </p>
                     </div>
                 </div>
@@ -44,6 +57,11 @@
                         <p
                             class="pt-4 pb-4 text-center text-lg bg-red-300 bg-opacity-10 rounded-b-2xl w-[220px] drop-shadow-lg border-t-2 border-orange-300">
                             Trummor
+                            <br />
+                            <a href="https://www.facebook.com/kultmats" target="_BLANK">
+                                <img src="{{ asset('images/facebook.png') }}"
+                                    class="inline-block w-6 pt-2 opacity-75 hover:opacity-100">
+                            </a>
                         </p>
                     </div>
                 </div>
@@ -60,6 +78,11 @@
                         <p
                             class="pt-4 pb-4 text-center text-lg bg-red-300 bg-opacity-10 rounded-b-2xl w-[220px] drop-shadow-lg border-t-2 border-orange-300">
                             Gitarr, Sång
+                            <br />
+                            <a href="https://www.facebook.com/ola.gustafsson.967" target="_BLANK">
+                                <img src="{{ asset('images/facebook.png') }}"
+                                    class="inline-block w-6 pt-2 opacity-75 hover:opacity-100">
+                            </a>
                         </p>
                     </div>
                 </div>
@@ -76,6 +99,11 @@
                         <p
                             class="pt-4 pb-4 text-center text-lg bg-red-300 bg-opacity-10 rounded-b-2xl w-[220px] drop-shadow-lg border-t-2 border-orange-300">
                             Bas, Sång
+                            <br />
+                            <a href="https://www.facebook.com/jonas.hellgren.3" target="_BLANK">
+                                <img src="{{ asset('images/facebook.png') }}"
+                                    class="inline-block w-6 pt-2 opacity-75 hover:opacity-100">
+                            </a>
                         </p>
                     </div>
                 </div>
