@@ -3,9 +3,10 @@
     @section('page-title')
         Spelningar
     @endsection
-    <div class="text-white mx-auto w-full max-w-4xl p-8 pt-1">
-        <p class="text-center text-xl pb-1 font-semibold text-orange-300">
-            <span class="box-bg border-l-2 border-r-2 border-orange-300 px-4 p-2"><span
+    <div class="text-white mx-auto w-full max-w-4xl p-8 pt-6">
+        <p class="text-left ml-6 sm:ml-20 text-lg pb-1 font-semibold text-orange-300">
+            <span
+                class="bg-red-950 border-dashed border-l-2 border-r-2 border-t-2 border-orange-300 px-4 p-2 rounded-t-lg"><span
                     class="text-white">SPELNINGAR</span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
                     fill="currentColor" class="inline-block -mt-1 ml-1 w-6 h-6">
                     <path
@@ -19,7 +20,7 @@
         <div class="flex justify-center items-center">
             <div
                 class="text-center text-lg box-bg rounded-xl w-full md:w-5/6 lg:w-[700px] sm:mx-16 mb-4 drop-shadow-lg p-4 border-t-2 border-orange-300">
-                <p class="text-center text-lg">
+                <p class="text-left text-lg">
                     Kommer snart...
                 </p>
             </div>
