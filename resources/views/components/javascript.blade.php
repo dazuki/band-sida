@@ -30,7 +30,7 @@
             targets: ".body-imgbg",
             backgroundPositionY: [0, '-632px'], //632px
             backgroundPositionX: [0, '634px'], //634px
-            backgroundColor: ['#300000', '#661000', '#300000', '#300000', '#300000', '#661000',
+            backgroundColor: ['#300000', '#501000', '#300000', '#300000', '#300000', '#501000',
                 '#300000', '#300000'
             ],
             easing: 'linear',

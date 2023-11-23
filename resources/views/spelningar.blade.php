@@ -3,11 +3,11 @@
     @section('page-title')
         Spelningar
     @endsection
-    <div class="text-white mx-auto w-full max-w-4xl p-8 pt-4 mt-2">
-        <p class="text-center text-2xl pb-1 font-semibold text-orange-300">
-            <span class="box-bg border-t-2 border-orange-300 px-4 p-2 rounded-t-xl">SPELNINGAR<svg
-                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"
-                    class="inline-block -mt-1 ml-2 w-7 h-7">
+    <div class="text-white mx-auto w-full max-w-4xl p-8 pt-1">
+        <p class="text-center text-xl pb-1 font-semibold text-orange-300">
+            <span class="box-bg border-l-2 border-r-2 border-orange-300 px-4 p-2"><span
+                    class="text-white">SPELNINGAR</span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+                    fill="currentColor" class="inline-block -mt-1 ml-1 w-6 h-6">
                     <path
                         d="M12.75 12.75a.75.75 0 11-1.5 0 .75.75 0 011.5 0zM7.5 15.75a.75.75 0 100-1.5.75.75 0 000 1.5zM8.25 17.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zM9.75 15.75a.75.75 0 100-1.5.75.75 0 000 1.5zM10.5 17.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zM12 15.75a.75.75 0 100-1.5.75.75 0 000 1.5zM12.75 17.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zM14.25 15.75a.75.75 0 100-1.5.75.75 0 000 1.5zM15 17.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zM16.5 15.75a.75.75 0 100-1.5.75.75 0 000 1.5zM15 12.75a.75.75 0 11-1.5 0 .75.75 0 011.5 0zM16.5 13.5a.75.75 0 100-1.5.75.75 0 000 1.5z" />
                     <path fill-rule="evenodd"
