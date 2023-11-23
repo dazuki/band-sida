@@ -6,7 +6,7 @@
     <div class="text-white mx-auto w-full max-w-4xl p-8 pt-6">
         <p class="text-left ml-6 sm:ml-20 text-lg pb-1 font-semibold text-orange-300">
             <span
-                class="bg-red-950 border-dashed border-l-2 border-r-2 border-t-2 border-orange-300 px-4 p-2 rounded-t-lg"><span
+                class="bg-red-900 border-dashed border-l-2 border-r-2 border-t-2 border-orange-300 px-4 p-2 rounded-t-lg"><span
                     class="text-white">SPELNINGAR</span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
                     fill="currentColor" class="inline-block -mt-1 ml-1 w-6 h-6">
                     <path
