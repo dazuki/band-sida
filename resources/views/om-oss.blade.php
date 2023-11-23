@@ -14,11 +14,11 @@
                 </svg>
             </span>
         </p>
-        <div class="flex justify-center items-center">
+        <div class="flex justify-center items-center mx-auto w-full max-w-4xl">
             <div
-                class="text-center text-lg box-bg rounded-xl w-full md:w-5/6 lg:w-[700px] sm:mx-16 mb-4 drop-shadow-lg p-4 border-t-2 border-orange-300">
+                class="grid grid-cols-1 md:grid-cols-2 text-center text-lg box-bg rounded-xl w-full md:w-5/6 lg:w-[700px] mb-4 drop-shadow-lg p-4 border-t-2 border-orange-300">
                 <div class="anim-oss" style="opacity: 0;">
-                    <p class="font-semibold text-center text-2xl p-4 pt-4 text-white">
+                    <p class="font-semibold text-center text-2xl p-4 text-white">
                         <span class="text-orange-300">TONY</span> LINDBERG
                     </p>
                     <div class="flex justify-center items-center mx-auto w-full">
@@ -47,7 +47,7 @@
                 </div>
 
                 <div class="anim-oss" style="opacity: 0;">
-                    <p class="font-semibold text-center text-2xl p-4 pt-10 text-white">
+                    <p class="font-semibold text-center text-2xl p-4 text-white">
                         <span class="text-orange-300">MATS</span> BYSTRÖM
                     </p>
                     <div class="flex justify-center items-center mx-auto w-full">
@@ -68,7 +68,7 @@
                 </div>
 
                 <div class="anim-oss" style="opacity: 0;">
-                    <p class="font-semibold text-center text-2xl p-4 pt-10 text-white">
+                    <p class="font-semibold text-center text-2xl p-4 text-white">
                         <span class="text-orange-300">OLA</span> GUSTAFSSON
                     </p>
                     <div class="flex justify-center items-center mx-auto w-full">
@@ -89,7 +89,7 @@
                 </div>
 
                 <div class="anim-oss" style="opacity: 0;">
-                    <p class="font-semibold text-center text-2xl p-4 pt-10 text-white">
+                    <p class="font-semibold text-center text-2xl p-4 text-white">
                         <span class="text-orange-300">JONAS</span> HELLGREN
                     </p>
                     <div class="flex justify-center items-center mx-auto w-full">
