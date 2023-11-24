@@ -30,7 +30,7 @@
                             <img src="{{ asset('images/facebook.png') }}"
                                 class="inline-block w-8 pt-1 mx-1 opacity-75 hover:opacity-100">
                         </a>
-                        <a href="mailto:lindbergt69@gmail.com" target="_BLANK">
+                        <a href="mailto:lindbergt69@gmail.com?subject=Hot Rails: Kontakt" target="_BLANK">
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                                 stroke-width="1.5" stroke="currentColor"
                                 class="inline-block w-10 pt-1 mx-1 opacity-75 hover:opacity-100 text-orange-300">
