@@ -30,7 +30,7 @@
             targets: ".body-imgbg",
             backgroundPositionY: [0, '-632px'], //632px
             backgroundPositionX: [0, '634px'], //634px
-            backgroundColor: ['#300000', '#501000', '#300000', '#300000', '#300000', '#501000',
+            backgroundColor: ['#300000', '#511000', '#300000', '#300000', '#300000', '#511000',
                 '#300000', '#300000'
             ],
             easing: 'linear',
@@ -51,10 +51,10 @@
         }
 
         preload(
-            "https://dazuki.github.io/images/tony_lindberg.jpg",
-            "https://dazuki.github.io/images/mats_bystrom.jpg",
-            "https://dazuki.github.io/images/ola_gustafsson.jpg",
-            "https://dazuki.github.io/images/jonas_hellgren.jpg"
+            "/images/tony_lindberg.jpg",
+            "/images/mats_bystrom.jpg",
+            "/images/ola_gustafsson.jpg",
+            "/images/jonas_hellgren.jpg"
         );
     </script>
 </div>
