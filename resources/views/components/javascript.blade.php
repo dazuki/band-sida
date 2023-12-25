@@ -1,5 +1,5 @@
 <script>
-    document.addEventListener("DOMContentLoaded", () => {
+    up.compiler('img#splash', function(element) {
         anime({
             targets: "#splash",
             translateY: [3, 0, 3, 0],
@@ -8,7 +8,9 @@
             duration: 3000,
             loop: true,
         });
+    });
 
+    up.compiler('div.anim-oss', function(element) {
         anime({
             targets: ".anim-oss",
             opacity: [0, 1],
@@ -17,7 +19,9 @@
             delay: anime.stagger(300),
             duration: 900,
         });
+    });
 
+    up.compiler('span.hot-text', function(element) {
         anime({
             targets: ".hot-text",
             color: ['#fdbb74', '#FF0000', '#FFFF00', '#FFF', '#fdbb74'],
@@ -25,7 +29,9 @@
             duration: 5000,
             loop: true,
         });
+    });
 
+    up.compiler('body.body-imgbg', function(element) {
         anime({
             targets: ".body-imgbg",
             backgroundPositionY: [0, '-632px'], //632px
