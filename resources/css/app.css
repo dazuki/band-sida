@@ -17,6 +17,7 @@ body {
 .two-lads-bg {
     background: url("/public/images/two_lads.jpg");
     background-position: center;
+    background-size: cover;
 }
 
 .body-imgbg {
