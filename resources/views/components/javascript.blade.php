@@ -60,7 +60,8 @@
             "/images/tony_lindberg.jpg",
             "/images/mats_bystrom.jpg",
             "/images/ola_gustafsson.jpg",
-            "/images/jonas_hellgren.jpg"
+            "/images/jonas_hellgren.jpg",
+            "/images/two_lads.jpg"
         );
     </script>
 </div>
