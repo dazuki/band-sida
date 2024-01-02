@@ -20,11 +20,12 @@
         <div>
             <div
                 class="two-lads-bg text-center text-lg box-bg rounded-xl w-full md:w-5/6 lg:w-[700px] sm:mx-16 mb-4 drop-shadow-lg border-t-2 border-orange-300">
-                <p class="bg-black bg-opacity-50 rounded-t-lg pt-2 pb-0 text-2xl">
+                <p class="bg-black bg-opacity-50 rounded-t-lg pt-2 pb-2 text-2xl">
                     <span class="font-semibold">3/2 Feb</span> (2024)
                 </p>
-                <p class="bg-black bg-opacity-80 pt-2 pb-2 text-lg font-semibold">
-                    <a href="https://maps.app.goo.gl/gejYLygGS43jnHFz9" class="hover:text-red-400 text-2xl"><svg
+                <p class="bg-black bg-opacity-50 pt-2 pb-2 text-lg font-semibold">
+                    <a href="https://maps.app.goo.gl/gejYLygGS43jnHFz9"
+                        class="hover:text-red-400 text-2xl border-2 border-dashed border-orange-300 p-2 bg-black bg-opacity-80"><svg
                             xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
                             stroke="currentColor" class="inline-block -mt-1 w-6 h-6">
                             <path stroke-linecap="round" stroke-linejoin="round"
@@ -42,11 +43,12 @@
         <div>
             <div
                 class="grayscale two-lads-bg opacity-50 text-center text-lg box-bg rounded-xl w-full md:w-5/6 lg:w-[700px] sm:mx-16 mb-4 drop-shadow-lg border-t-2 border-orange-300">
-                <p class="bg-black bg-opacity-50 rounded-t-lg pt-2 pb-0 text-2xl">
-                    <span class="font-semibold">9/12 Dec</span> (2023)
+                <p class="bg-black bg-opacity-50 rounded-t-lg pt-2 pb-2 text-2xl">
+                    <span class="font-semibold">3/2 Feb</span> (2024)
                 </p>
-                <p class="bg-black bg-opacity-80 pt-2 pb-2 text-lg font-semibold">
-                    <a href="https://maps.app.goo.gl/gejYLygGS43jnHFz9" class="hover:text-red-400 text-2xl"><svg
+                <p class="bg-black bg-opacity-50 pt-2 pb-2 text-lg font-semibold">
+                    <a href="https://maps.app.goo.gl/gejYLygGS43jnHFz9"
+                        class="hover:text-red-400 text-2xl border-2 border-dashed border-orange-300 p-2 bg-black bg-opacity-80"><svg
                             xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
                             stroke="currentColor" class="inline-block -mt-1 w-6 h-6">
                             <path stroke-linecap="round" stroke-linejoin="round"
