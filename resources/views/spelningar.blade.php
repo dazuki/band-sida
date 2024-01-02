@@ -25,7 +25,7 @@
                 </p>
                 <p class="bg-black bg-opacity-50 pt-2 pb-2 text-lg font-semibold">
                     <a href="https://maps.app.goo.gl/gejYLygGS43jnHFz9"
-                        class="hover:text-red-400 text-2xl border-2 border-dashed border-orange-300 p-2 bg-black bg-opacity-80"><svg
+                        class="hover:text-red-400 text-2xl border-2 border-dashed border-orange-300 p-2 bg-black bg-opacity-70"><svg
                             xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
                             stroke="currentColor" class="inline-block -mt-1 w-6 h-6">
                             <path stroke-linecap="round" stroke-linejoin="round"
@@ -48,7 +48,7 @@
                 </p>
                 <p class="bg-black bg-opacity-50 pt-2 pb-2 text-lg font-semibold">
                     <a href="https://maps.app.goo.gl/gejYLygGS43jnHFz9"
-                        class="hover:text-red-400 text-2xl border-2 border-dashed border-orange-300 p-2 bg-black bg-opacity-80"><svg
+                        class="hover:text-red-400 text-2xl border-2 border-dashed border-orange-300 p-2 bg-black bg-opacity-70"><svg
                             xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
                             stroke="currentColor" class="inline-block -mt-1 w-6 h-6">
                             <path stroke-linecap="round" stroke-linejoin="round"
