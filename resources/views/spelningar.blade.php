@@ -44,7 +44,7 @@
             <div
                 class="grayscale two-lads-bg opacity-50 text-center text-lg box-bg rounded-xl w-full md:w-5/6 lg:w-[700px] sm:mx-16 mb-4 drop-shadow-lg border-t-2 border-orange-300">
                 <p class="bg-black bg-opacity-50 rounded-t-lg pt-2 pb-2 text-2xl">
-                    <span class="font-semibold">3/2 Feb</span> (2024)
+                    <span class="font-semibold">9/12 Dec</span> (2023)
                 </p>
                 <p class="bg-black bg-opacity-50 pt-2 pb-2 text-lg font-semibold">
                     <a href="https://maps.app.goo.gl/gejYLygGS43jnHFz9"
