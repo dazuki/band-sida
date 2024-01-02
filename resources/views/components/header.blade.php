@@ -5,15 +5,15 @@
                 class="{{ $href == 'hem' ? 'current bg-red-900 text-orange-300 border sm:border-2 border-orange-300 ' : '' }}py-2 sm:py-2 hover:text-orange-300 px-2"
                 up-follow>HEM</a>
             ·
-            <a href="/om-oss"
+            <a href="/om-oss/"
                 class="{{ $href == 'om-oss' ? 'current bg-red-900 text-orange-300 border sm:border-2 border-orange-300 ' : '' }}py-2 sm:py-2 hover:text-orange-300 px-2"
                 up-follow>BANDET</a>
             ·
-            <a href="/spelningar"
+            <a href="/spelningar/"
                 class="{{ $href == 'spelningar' ? 'current bg-red-900 text-orange-300 border sm:border-2 border-orange-300 ' : '' }}py-2 sm:py-2 hover:text-orange-300 px-2"
                 up-follow>SPELNINGAR</a>
             ·
-            <a href="/kontakt"
+            <a href="/kontakt/"
                 class="{{ $href == 'kontakt' ? 'current bg-red-900 text-orange-300 border sm:border-2 border-orange-300 ' : '' }}py-2 sm:py-2 hover:text-orange-300 px-2"
                 up-follow>KONTAKT</a>
         </div>
