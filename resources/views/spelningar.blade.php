@@ -17,11 +17,28 @@
                 </svg>
             </span>
         </p>
-        <div class="flex justify-center items-center">
+        <div>
             <div
                 class="two-lads-bg text-center text-lg box-bg rounded-xl w-full md:w-5/6 lg:w-[700px] sm:mx-16 mb-4 drop-shadow-lg p-4 border-t-2 border-orange-300">
                 <p class="bg-black bg-opacity-60 rounded-t-lg pt-2 pb-0 text-2xl">
-                    <span class="font-semibold">9/12</span>
+                    <span class="font-semibold">3/2 Februari (2024)</span>
+                </p>
+                <p class="bg-black bg-opacity-60 pt-2 text-lg">
+                    Two Lads Pub
+                </p>
+                <p class="bg-black bg-opacity-60 text-sm">
+                    (Alingsås)
+                </p>
+                <p class="bg-black bg-opacity-60 rounded-b-lg p-2">
+                    KL. 21.00
+                </p>
+            </div>
+        </div>
+        <div>
+            <div
+                class="grayscale two-lads-bg opacity-50 text-center text-lg box-bg rounded-xl w-full md:w-5/6 lg:w-[700px] sm:mx-16 mb-4 drop-shadow-lg p-4 border-t-2 border-orange-300">
+                <p class="bg-black bg-opacity-60 rounded-t-lg pt-2 pb-0 text-2xl">
+                    <span class="font-semibold">9/12 December (2023)</span>
                 </p>
                 <p class="bg-black bg-opacity-60 pt-2 text-lg">
                     Two Lads Pub
