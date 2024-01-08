@@ -17,50 +17,48 @@
                 </svg>
             </span>
         </p>
-        <div class="grid grid-cols-1 mx-auto w-full max-w-4xl">
-            <div
-                class="two-lads-bg text-center text-lg box-bg rounded-xl w-full mb-4 drop-shadow-lg border-t-2 border-orange-300">
-                <p class="bg-black bg-opacity-50 rounded-t-lg pt-2 pb-2 text-2xl">
-                    <span class="font-semibold">3/2 Feb</span> (2024)
-                </p>
-                <p class="bg-black bg-opacity-50 pt-2 pb-2 text-lg font-semibold">
-                    <a href="https://maps.app.goo.gl/gejYLygGS43jnHFz9"
-                        class="hover:text-red-400 text-2xl border-2 border-orange-300 p-2 bg-black hover:bg-black bg-opacity-70 rounded-lg"><svg
-                            xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
-                            stroke="currentColor" class="inline-block -mt-1 w-6 h-6">
-                            <path stroke-linecap="round" stroke-linejoin="round"
-                                d="M9 6.75V15m6-6v8.25m.503 3.498 4.875-2.437c.381-.19.622-.58.622-1.006V4.82c0-.836-.88-1.38-1.628-1.006l-3.869 1.934c-.317.159-.69.159-1.006 0L9.503 3.252a1.125 1.125 0 0 0-1.006 0L3.622 5.689C3.24 5.88 3 6.27 3 6.695V19.18c0 .836.88 1.38 1.628 1.006l3.869-1.934c.317-.159.69-.159 1.006 0l4.994 2.497c.317.158.69.158 1.006 0Z" />
-                        </svg> Two Lads Pub</a>
-                </p>
-                <p class="bg-black bg-opacity-50 pt-2">
-                    Alingsås
-                </p>
-                <p class="bg-black bg-opacity-50 rounded-b-lg p-2">
-                    KL. 21.00
-                </p>
-            </div>
+        <div
+            class="two-lads-bg text-center text-lg box-bg rounded-xl w-full mb-4 drop-shadow-lg border-t-2 border-orange-300">
+            <p class="bg-black bg-opacity-50 rounded-t-lg pt-2 pb-2 text-2xl">
+                <span class="font-semibold">3/2 Feb</span> (2024)
+            </p>
+            <p class="bg-black bg-opacity-50 pt-2 pb-2 text-lg font-semibold">
+                <a href="https://maps.app.goo.gl/gejYLygGS43jnHFz9"
+                    class="hover:text-red-400 text-2xl border-2 border-orange-300 p-2 bg-black hover:bg-black bg-opacity-70 rounded-lg"><svg
+                        xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+                        stroke="currentColor" class="inline-block -mt-1 w-6 h-6">
+                        <path stroke-linecap="round" stroke-linejoin="round"
+                            d="M9 6.75V15m6-6v8.25m.503 3.498 4.875-2.437c.381-.19.622-.58.622-1.006V4.82c0-.836-.88-1.38-1.628-1.006l-3.869 1.934c-.317.159-.69.159-1.006 0L9.503 3.252a1.125 1.125 0 0 0-1.006 0L3.622 5.689C3.24 5.88 3 6.27 3 6.695V19.18c0 .836.88 1.38 1.628 1.006l3.869-1.934c.317-.159.69-.159 1.006 0l4.994 2.497c.317.158.69.158 1.006 0Z" />
+                    </svg> Two Lads Pub</a>
+            </p>
+            <p class="bg-black bg-opacity-50 pt-2">
+                Alingsås
+            </p>
+            <p class="bg-black bg-opacity-50 rounded-b-lg p-2">
+                KL. 21.00
+            </p>
+        </div>
 
-            <div
-                class="grayscale two-lads-bg opacity-50 text-center text-lg box-bg rounded-xl w-full mb-4 drop-shadow-lg border-t-2 border-orange-300">
-                <p class="bg-black bg-opacity-50 rounded-t-lg pt-2 pb-2 text-2xl">
-                    <span class="font-semibold">9/12 Dec</span> (2023)
-                </p>
-                <p class="bg-black bg-opacity-50 pt-2 pb-2 text-lg font-semibold">
-                    <a href="https://maps.app.goo.gl/gejYLygGS43jnHFz9"
-                        class="hover:text-red-400 text-2xl border-2 border-orange-300 p-2 bg-black hover:bg-black bg-opacity-70 rounded-lg"><svg
-                            xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
-                            stroke="currentColor" class="inline-block -mt-1 w-6 h-6">
-                            <path stroke-linecap="round" stroke-linejoin="round"
-                                d="M9 6.75V15m6-6v8.25m.503 3.498 4.875-2.437c.381-.19.622-.58.622-1.006V4.82c0-.836-.88-1.38-1.628-1.006l-3.869 1.934c-.317.159-.69.159-1.006 0L9.503 3.252a1.125 1.125 0 0 0-1.006 0L3.622 5.689C3.24 5.88 3 6.27 3 6.695V19.18c0 .836.88 1.38 1.628 1.006l3.869-1.934c.317-.159.69-.159 1.006 0l4.994 2.497c.317.158.69.158 1.006 0Z" />
-                        </svg> Two Lads Pub</a>
-                </p>
-                <p class="bg-black bg-opacity-50 pt-2">
-                    Alingsås
-                </p>
-                <p class="bg-black bg-opacity-50 rounded-b-lg p-2">
-                    KL. 21.00
-                </p>
-            </div>
+        <div
+            class="grayscale two-lads-bg opacity-50 text-center text-lg box-bg rounded-xl w-full mb-4 drop-shadow-lg border-t-2 border-orange-300">
+            <p class="bg-black bg-opacity-50 rounded-t-lg pt-2 pb-2 text-2xl">
+                <span class="font-semibold">9/12 Dec</span> (2023)
+            </p>
+            <p class="bg-black bg-opacity-50 pt-2 pb-2 text-lg font-semibold">
+                <a href="https://maps.app.goo.gl/gejYLygGS43jnHFz9"
+                    class="hover:text-red-400 text-2xl border-2 border-orange-300 p-2 bg-black hover:bg-black bg-opacity-70 rounded-lg"><svg
+                        xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+                        stroke="currentColor" class="inline-block -mt-1 w-6 h-6">
+                        <path stroke-linecap="round" stroke-linejoin="round"
+                            d="M9 6.75V15m6-6v8.25m.503 3.498 4.875-2.437c.381-.19.622-.58.622-1.006V4.82c0-.836-.88-1.38-1.628-1.006l-3.869 1.934c-.317.159-.69.159-1.006 0L9.503 3.252a1.125 1.125 0 0 0-1.006 0L3.622 5.689C3.24 5.88 3 6.27 3 6.695V19.18c0 .836.88 1.38 1.628 1.006l3.869-1.934c.317-.159.69-.159 1.006 0l4.994 2.497c.317.158.69.158 1.006 0Z" />
+                    </svg> Two Lads Pub</a>
+            </p>
+            <p class="bg-black bg-opacity-50 pt-2">
+                Alingsås
+            </p>
+            <p class="bg-black bg-opacity-50 rounded-b-lg p-2">
+                KL. 21.00
+            </p>
         </div>
     </div>
 </x-layout>
