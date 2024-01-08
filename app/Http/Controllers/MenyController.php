@@ -25,4 +25,9 @@ class MenyController extends Controller
     {
         return view('kontakt');
     }
+
+    public function fourOTwo()
+    {
+        return view('402');
+    }
 }
