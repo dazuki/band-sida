@@ -14,9 +14,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', [MenyController::class, 'fourOTwo']);
-
-// Route::get('/', [MenyController::class, 'hem']);
+Route::get('/', [MenyController::class, 'hem']);
 
 Route::get('/om-oss', [MenyController::class, 'omOss']);
 
