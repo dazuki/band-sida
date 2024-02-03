@@ -34,8 +34,16 @@
             <p class="bg-black bg-opacity-50 pt-2">
                 Alingsås
             </p>
-            <p class="bg-black bg-opacity-50 rounded-b-lg p-2">
+            <p class="bg-black bg-opacity-50 p-2">
                 KL. 21.00
+            </p>
+            <p class="bg-blue-900 bg-opacity-80 rounded-b-lg p-2 py-4 text-xl">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"
+                    class="inline-block -mt-1 mr-2 w-10 h-10">
+                    <path fill-rule="evenodd"
+                        d="M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm8.706-1.442c1.146-.573 2.437.463 2.126 1.706l-.709 2.836.042-.02a.75.75 0 0 1 .67 1.34l-.04.022c-1.147.573-2.438-.463-2.127-1.706l.71-2.836-.042.02a.75.75 0 1 1-.671-1.34l.041-.022ZM12 9a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z"
+                        clip-rule="evenodd" />
+                </svg><span class="font-bold">100 SEK</span> / Person
             </p>
         </div>
 
