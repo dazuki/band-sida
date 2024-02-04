@@ -18,7 +18,14 @@
             </span>
         </p>
         <div
-            class="two-lads-bg text-center text-lg box-bg rounded-xl w-full mb-4 drop-shadow-lg border-t-2 border-orange-300">
+            class="bg-red-900 text-center text-lg box-bg rounded-xl w-full mb-4 drop-shadow-lg border-t-2 border-b-2 border-orange-300">
+            <p class="rounded-t-lg pt-2 pb-2 text-2xl">
+                <span class="font-semibold">Inga just nu...</span>
+            </p>
+        </div>
+
+        <div
+            class="grayscale opacity-50 two-lads-bg text-center text-lg box-bg rounded-xl w-full mb-4 drop-shadow-lg border-t-2 border-orange-300">
             <p class="bg-black bg-opacity-50 rounded-t-lg pt-2 pb-2 text-2xl">
                 <span class="font-semibold">3/2 Feb</span> (2024)
             </p>
