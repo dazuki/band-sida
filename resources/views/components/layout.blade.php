@@ -15,7 +15,7 @@
     <script src="https://cdn.jsdelivr.net/npm/unpoly@3.6.1/unpoly.min.js"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/unpoly@3.6.1/unpoly.min.css">
     @vite(['resources/sass/app.scss', 'resources/css/app.css', 'resources/js/app.js'])
-    <title>@yield('page-title') - HOT RAILS</title>
+    <title>HOT RAILS • @yield('page-title')</title>
 </head>
 
 <body class="body-imgbg">
